@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND_DEAD.png" width="3530" height="3954">
+<!--
+Sprite sheet generated with homemade Python code
+"It's a good solution for when there's no internet connection and I can't use Funkin Packer™"
+By KyleFaz87 :bleh:
+-->
+	<SubTexture name="Death Loop CENSORED0000" x="2" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0001" x="443" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0002" x="443" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0003" x="884" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0004" x="884" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0005" x="1325" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0006" x="1325" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0007" x="1766" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0008" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0009" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0010" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0011" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0012" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0013" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0014" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0015" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0016" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0017" x="2" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0018" x="443" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0019" x="443" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0020" x="884" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0021" x="884" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0022" x="1325" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0023" x="1325" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0024" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0025" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0026" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0027" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0028" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0029" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0030" x="1766" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0031" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0032" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Death Loop CENSORED0033" x="2207" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="Dead confirm CENSORED0000" x="2" y="2" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0001" x="443" y="2" width="439" height="447" frameX="0" frameY="-51" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0002" x="884" y="2" width="439" height="465" frameX="0" frameY="-33" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0003" x="1325" y="2" width="439" height="447" frameX="0" frameY="-51" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0004" x="1766" y="2" width="439" height="446" frameX="0" frameY="-52" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0005" x="2207" y="2" width="439" height="446" frameX="0" frameY="-52" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0006" x="2648" y="2" width="439" height="446" frameX="0" frameY="-52" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0007" x="3089" y="2" width="439" height="446" frameX="0" frameY="-52" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0008" x="2" y="469" width="439" height="446" frameX="0" frameY="-52" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0009" x="443" y="469" width="439" height="446" frameX="0" frameY="-52" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0010" x="884" y="469" width="439" height="445" frameX="0" frameY="-53" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0011" x="1325" y="469" width="439" height="445" frameX="0" frameY="-53" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0012" x="1766" y="469" width="439" height="443" frameX="0" frameY="-55" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0013" x="2207" y="469" width="439" height="443" frameX="0" frameY="-55" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0014" x="2648" y="469" width="439" height="442" frameX="0" frameY="-56" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0015" x="3089" y="469" width="439" height="443" frameX="0" frameY="-56" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0016" x="2" y="917" width="439" height="442" frameX="0" frameY="-57" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0017" x="443" y="917" width="439" height="439" frameX="0" frameY="-60" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0018" x="884" y="917" width="439" height="436" frameX="0" frameY="-62" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0019" x="1325" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0020" x="1766" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0021" x="2207" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0022" x="2648" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0023" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0024" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0025" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0026" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0027" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0028" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0029" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0030" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0031" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0032" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="Dead confirm CENSORED0033" x="3089" y="917" width="439" height="433" frameX="0" frameY="-65" frameWidth="439" frameHeight="499"/>
+	<SubTexture name="dies CENSORED0000" x="2648" y="1361" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0001" x="3083" y="1361" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0002" x="2" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0003" x="443" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0004" x="884" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0005" x="1325" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0006" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0007" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0008" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0009" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0010" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0011" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0012" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0013" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0014" x="1766" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0015" x="2207" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0016" x="2207" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0017" x="2207" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0018" x="2648" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0019" x="2648" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0020" x="3089" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0021" x="3089" y="1796" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0022" x="2" y="2209" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0023" x="2" y="2209" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0024" x="443" y="2209" width="439" height="411" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0025" x="884" y="2209" width="439" height="438" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0026" x="884" y="2209" width="439" height="438" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0027" x="1325" y="2209" width="439" height="432" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0028" x="1325" y="2209" width="439" height="432" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0029" x="1766" y="2209" width="439" height="434" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0030" x="1766" y="2209" width="439" height="434" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0031" x="2207" y="2209" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0032" x="2207" y="2209" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0033" x="2207" y="2209" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0034" x="2207" y="2209" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0035" x="2648" y="2209" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0036" x="3089" y="2209" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0037" x="2" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0038" x="443" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0039" x="884" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0040" x="1325" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0041" x="1766" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0042" x="2207" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0043" x="2648" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0044" x="3089" y="2649" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0045" x="2" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0046" x="443" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0047" x="884" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0048" x="1325" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0049" x="1766" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0050" x="2207" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0051" x="2648" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0052" x="3089" y="3084" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0053" x="1325" y="1361" width="439" height="433" frameX="0" frameY="-1" frameWidth="439" frameHeight="435"/>
+	<SubTexture name="dies CENSORED0054" x="2" y="3519" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0055" x="2" y="3519" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0056" x="2" y="3519" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+	<SubTexture name="dies CENSORED0057" x="443" y="3519" width="439" height="433" frameX="0" frameY="-7" frameWidth="439" frameHeight="445"/>
+</TextureAtlas>

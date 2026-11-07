@@ -1,0 +1,50 @@
+{
+ "version": "2.2.4",
+ "songName": "Wrong Side Out",
+ "artist": "CG5",
+ "charter": "APersonOnRoblox",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf-cg5",
+   "girlfriend": "or3o",
+   "opponent": "cg5",
+   "opponentVocals": [
+    "cg5"
+   ],
+   "playerVocals": [
+    "bf-cg5"
+   ]
+  },
+  "stage": "mixRoom",
+  "noteStyle": "funkincg5",
+  "ratings": {
+   "easy": 4,
+   "normal": 5,
+   "hard": 10
+  },
+  "album": "cg5wrongsideout",
+  "previewStart": 41188,
+  "previewEnd": 53114
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.3",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 162,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 162743,
+   "b": 439.4061,
+   "bpm": 162,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

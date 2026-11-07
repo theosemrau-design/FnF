@@ -1,0 +1,51 @@
+import funkin.play.PlayState;
+import flixel.FlxG;
+
+import funkin.play.event.SongEvent;
+import funkin.data.event.SongEventSchema;
+
+import funkin.modding.PolymodErrorHandler;
+import funkin.play.event.ScriptedSongEvent;
+
+import funkin.modding.module.ModuleHandler;
+import funkin.modding.module.ScriptedModule;
+import funkin.data.event.SongEventRegistry;
+import funkin.save.Save;
+
+import lime.app.Application;
+
+class ChangeWindowTitleEvent extends ScriptedSongEvent {
+  public var eventTitle:String = "Change Window Title";
+
+  function new() {
+    super("change-window-title");
+  }
+
+  override function handleEvent(data) {
+    if (PlayState.instance == null) return;
+
+    var newTitle:String = data.getString("title");
+    if (newTitle == null || newTitle.length <= 0) return;
+
+    Application.current.window.title = newTitle;
+  }
+
+  override function getTitle() {
+    return eventTitle;
+  }
+
+  override function getIconPath() {
+    return "ui/chart-editor/events/default";
+  }
+
+  override function getEventSchema() {
+    return [
+      {
+        name: "title",
+        title: "Window Title",
+        defaultValue: "",
+        type: "string"
+      }
+    ];
+  }
+}

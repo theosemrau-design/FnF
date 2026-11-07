@@ -1,0 +1,29 @@
+{
+    "title": "FNF: CG5 Edition",
+    "description": "Updated in honor of the mod's 5th anniversary!",
+    "contributors": [
+        {
+            "name": "Hasuchila",
+            "role": "QA, Artist, Charter, Code Revisionist"
+        },
+		{
+            "name": "Ink",
+            "role": "Coding, Porting, Guidance, Playtesting, QA + a buncha stuff"
+        },
+        {
+            "name": "Kaivara",
+            "role": "Coding"
+        },
+		{
+            "name": "Mercylius",
+            "role": "Coding"
+        },
+	    {
+            "name": "Kfaz87",
+            "role": "Lyrics Porting"
+        }
+	],
+    "api_version": "0.8.4",
+    "mod_version": "1.0.4",
+    "license": "CC BY 4.0,MIT"
+}

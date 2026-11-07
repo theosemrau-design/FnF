@@ -1,0 +1,811 @@
+1
+00:00:01,935 --> 00:00:02,055
+{font face="Eight One"}If
+
+2
+00:00:02,056 --> 00:00:02,176
+{font face="Eight One"}If you
+
+3
+00:00:02,177 --> 00:00:02,297
+{font face="Eight One"}If you think
+
+4
+00:00:02,298 --> 00:00:02,418
+{font face="Eight One"}If you think you're
+
+5
+00:00:02,419 --> 00:00:02,660
+{font face="Eight One"}If you think you're fast
+
+6
+00:00:02,661 --> 00:00:02,902
+{font face="Eight One"}If you think you're fast, well...
+
+7
+00:00:02,903 --> 00:00:03,023
+{font face="Eight One"}I'm
+
+8
+00:00:03,024 --> 00:00:03,144
+{font face="Eight One"}I'm a
+
+9
+00:00:03,145 --> 00:00:03,265
+{font face="Eight One"}I'm a li
+
+10
+00:00:03,266 --> 00:00:03,386
+{font face="Eight One"}I'm a little
+
+11
+00:00:03,387 --> 00:00:03,628
+{font face="Eight One"}I'm a little fas
+
+12
+00:00:03,629 --> 00:00:03,869
+{font face="Eight One"}I'm a little faster
+
+13
+00:00:03,870 --> 00:00:03,990
+{font face="Eight One"}You're
+
+14
+00:00:03,991 --> 00:00:04,111
+{font face="Eight One"}You're like
+
+15
+00:00:04,112 --> 00:00:04,232
+{font face="Eight One"}You're like a
+
+16
+00:00:04,233 --> 00:00:04,353
+{font face="Eight One"}You're like a ga
+
+17
+00:00:04,354 --> 00:00:04,595
+{font face="Eight One"}You're like a gazelle
+
+18
+00:00:04,596 --> 00:00:04,716
+{font face="Eight One"}I'm
+
+19
+00:00:04,717 --> 00:00:04,837
+{font face="Eight One"}I'm a
+
+20
+00:00:04,838 --> 00:00:04,958
+{font face="Eight One"}I'm a li
+
+21
+00:00:04,959 --> 00:00:05,079
+{font face="Eight One"}I'm a lion
+
+22
+00:00:05,080 --> 00:00:05,200
+{font face="Eight One"}I'm a lion 'bout
+
+23
+00:00:05,201 --> 00:00:05,321
+{font face="Eight One"}I'm a lion 'bout to
+
+24
+00:00:05,322 --> 00:00:05,563
+{font face="Eight One"}I'm a lion 'bout to catch
+
+25
+00:00:05,564 --> 00:00:05,805
+{font face="Eight One"}I'm a lion 'bout to catch ya
+
+26
+00:00:09,677 --> 00:00:09,918
+{font face="Eight One"}I'm
+
+27
+00:00:09,919 --> 00:00:10,039
+{font face="Eight One"}I'm in
+
+28
+00:00:10,040 --> 00:00:10,160
+{font face="Eight One"}I'm in the
+
+29
+00:00:10,161 --> 00:00:10,402
+{font face="Eight One"}I'm in the mood
+
+30
+00:00:10,403 --> 00:00:10,523
+{font face="Eight One"}I'm in the mood for
+
+31
+00:00:10,524 --> 00:00:10,644
+{font face="Eight One"}I'm in the mood for a
+
+32
+00:00:10,645 --> 00:00:10,886
+{font face="Eight One"}Diss
+
+33
+00:00:10,887 --> 00:00:11,128
+{font face="Eight One"}Disstrack
+
+34
+00:00:11,129 --> 00:00:11,369
+{font face="Eight One"}Disstrack ven
+
+35
+00:00:11,370 --> 00:00:11,611
+{font face="Eight One"}Disstrack venture
+
+36
+00:00:11,612 --> 00:00:11,853
+{font face="Eight One"}You're
+
+37
+00:00:11,854 --> 00:00:12,095
+{font face="Eight One"}You're so
+
+38
+00:00:12,096 --> 00:00:12,337
+{font face="Eight One"}You're so weak
+
+39
+00:00:12,338 --> 00:00:12,458
+{font face="Eight One"}I'm
+
+40
+00:00:12,459 --> 00:00:12,579
+{font face="Eight One"}I'mma
+
+41
+00:00:12,580 --> 00:00:12,700
+{font face="Eight One"}I'mma put
+
+42
+00:00:12,701 --> 00:00:12,821
+{font face="Eight One"}I'mma put you
+
+43
+00:00:12,822 --> 00:00:12,942
+{font face="Eight One"}I'mma put you on
+
+44
+00:00:12,943 --> 00:00:13,063
+{font face="Eight One"}I'mma put you on a
+
+45
+00:00:13,064 --> 00:00:13,305
+{font face="Eight One"}I'mma put you on a stretch
+
+46
+00:00:13,306 --> 00:00:13,547
+{font face="Eight One"}I'mma put you on a stretcher
+
+47
+00:00:17,419 --> 00:00:17,660
+{font face="Eight One"}Blo
+
+48
+00:00:17,661 --> 00:00:17,781
+{font face="Eight One"}Blocking
+
+49
+00:00:17,782 --> 00:00:17,902
+{font face="Eight One"}Blocking you
+
+50
+00:00:17,903 --> 00:00:18,144
+{font face="Eight One"}Blocking you out
+
+51
+00:00:18,145 --> 00:00:18,386
+{font face="Eight One"}Blocking you out like
+
+52
+00:00:18,387 --> 00:00:18,628
+{font face="Eight One"}La
+
+53
+00:00:18,629 --> 00:00:18,869
+{font face="Eight One"}La-la
+
+54
+00:00:18,870 --> 00:00:19,111
+{font face="Eight One"}La-la-lah
+
+55
+00:00:19,112 --> 00:00:19,232
+{font face="Eight One"}Might
+
+56
+00:00:19,233 --> 00:00:19,353
+{font face="Eight One"}Might as
+
+57
+00:00:19,354 --> 00:00:19,595
+{font face="Eight One"}Might as well
+
+58
+00:00:19,596 --> 00:00:19,837
+{font face="Eight One"}Might as well be
+
+59
+00:00:19,838 --> 00:00:19,958
+{font face="Eight One"}Might as well be do
+
+60
+00:00:19,959 --> 00:00:20,079
+{font face="Eight One"}Might as well be doing
+
+61
+00:00:20,080 --> 00:00:20,321
+{font face="Eight One"}Might as well be doing this
+
+62
+00:00:20,322 --> 00:00:20,563
+{font face="Eight One"}So
+
+63
+00:00:20,564 --> 00:00:20,805
+{font face="Eight One"}Solo
+
+64
+00:00:20,806 --> 00:00:21,289
+{font face="Eight One"}Solo-lah
+
+65
+00:00:24,919 --> 00:00:25,039
+{font face="Eight One"}Put
+
+66
+00:00:25,040 --> 00:00:25,160
+{font face="Eight One"}Put a
+
+67
+00:00:25,161 --> 00:00:25,523
+{font face="Eight One"}Put a hole
+
+68
+00:00:25,524 --> 00:00:25,644
+{font face="Eight One"}Put a hole in
+
+69
+00:00:25,645 --> 00:00:25,886
+{font face="Eight One"}Put a hole in you
+
+70
+00:00:25,887 --> 00:00:26,128
+{font face="Eight One"}Put a hole in you like
+
+71
+00:00:26,129 --> 00:00:26,369
+{font face="Eight One"}Brah
+
+72
+00:00:26,370 --> 00:00:26,611
+{font face="Eight One"}Brah-brah
+
+73
+00:00:26,612 --> 00:00:26,853
+{font face="Eight One"}Brah-brah-brah
+
+74
+00:00:26,854 --> 00:00:26,974
+{font face="Eight One"}I
+
+75
+00:00:26,975 --> 00:00:27,216
+{font face="Eight One"}I just
+
+76
+00:00:27,217 --> 00:00:27,458
+{font face="Eight One"}I just can't
+
+77
+00:00:27,459 --> 00:00:27,579
+{font face="Eight One"}I just can't con
+
+78
+00:00:27,580 --> 00:00:27,821
+{font face="Eight One"}I just can't control
+
+79
+00:00:27,822 --> 00:00:28,063
+{font face="Eight One"}I just can't control that
+
+80
+00:00:28,064 --> 00:00:28,305
+{font face="Eight One"}Hah
+
+81
+00:00:28,306 --> 00:00:28,547
+{font face="Eight One"}Hah-hah
+
+82
+00:00:28,548 --> 00:00:28,789
+{font face="Eight One"}Hah-hah-hah
+
+83
+00:00:32,903 --> 00:00:33,023
+{font face="Eight One"}Li
+
+84
+00:00:33,024 --> 00:00:33,144
+{font face="Eight One"}Little
+
+85
+00:00:33,145 --> 00:00:33,265
+{font face="Eight One"}Little ba
+
+86
+00:00:33,266 --> 00:00:33,386
+{font face="Eight One"}Little baby
+
+87
+00:00:33,387 --> 00:00:33,869
+{font face="Eight One"}Little baby boy
+
+88
+00:00:33,870 --> 00:00:33,990
+{font face="Eight One"}Play
+
+89
+00:00:33,991 --> 00:00:34,111
+{font face="Eight One"}Play you
+
+90
+00:00:34,112 --> 00:00:34,232
+{font face="Eight One"}Play you like
+
+91
+00:00:34,233 --> 00:00:34,353
+{font face="Eight One"}Play you like a
+
+92
+00:00:34,354 --> 00:00:34,837
+{font face="Eight One"}Play you like a toy
+
+93
+00:00:34,838 --> 00:00:34,958
+{font face="Eight One"}I'll
+
+94
+00:00:34,959 --> 00:00:35,079
+{font face="Eight One"}I'll o
+
+95
+00:00:35,080 --> 00:00:35,200
+{font face="Eight One"}I'll obli
+
+96
+00:00:35,201 --> 00:00:35,321
+{font face="Eight One"}I'll oblite
+
+97
+00:00:35,322 --> 00:00:35,442
+{font face="Eight One"}I'll obliterate
+
+98
+00:00:35,443 --> 00:00:35,563
+{font face="Eight One"}I'll obliterate you
+
+99
+00:00:35,564 --> 00:00:35,684
+{font face="Eight One"}I'm
+
+100
+00:00:35,685 --> 00:00:35,805
+{font face="Eight One"}I'mma
+
+101
+00:00:35,806 --> 00:00:35,926
+{font face="Eight One"}I'mma take
+
+102
+00:00:35,927 --> 00:00:36,047
+{font face="Eight One"}I'mma take out
+
+103
+00:00:36,048 --> 00:00:36,168
+{font face="Eight One"}I'mma take out all
+
+104
+00:00:36,169 --> 00:00:36,289
+{font face="Eight One"}I'mma take out all your
+
+105
+00:00:36,290 --> 00:00:36,531
+{font face="Eight One"}I'mma take out all your joy
+
+106
+00:00:36,532 --> 00:00:36,773
+{font face="Eight One"}With
+
+107
+00:00:36,774 --> 00:00:37,015
+{font face="Eight One"}With me
+
+108
+00:00:37,500 --> 00:00:37,740
+{font face="Eight One"}With
+
+109
+00:00:37,741 --> 00:00:37,982
+{font face="Eight One"}With me
+
+110
+00:00:38,467 --> 00:00:38,708
+{font face="Eight One"}With
+
+111
+00:00:38,709 --> 00:00:39,192
+{font face="Eight One"}With me
+
+112
+00:00:39,193 --> 00:00:39,434
+{font face="Eight One"}Bet
+
+113
+00:00:39,435 --> 00:00:39,555
+{font face="Eight One"}Bet, I'm
+
+114
+00:00:39,556 --> 00:00:39,676
+{font face="Eight One"}Bet, I'mma
+
+115
+00:00:39,677 --> 00:00:39,797
+{font face="Eight One"}Bet, I'mma take
+
+116
+00:00:39,798 --> 00:00:39,918
+{font face="Eight One"}Bet, I'mma take it
+
+117
+00:00:39,919 --> 00:00:40,160
+{font face="Eight One"}Bet, I'mma take it with
+
+118
+00:00:40,161 --> 00:00:40,644
+{font face="Eight One"}Bet, I'mma take it with me
+
+119
+00:00:44,758 --> 00:00:44,999
+{font face="Eight One"}With
+
+120
+00:00:45,000 --> 00:00:45,240
+{font face="Eight One"}With me
+
+121
+00:00:45,725 --> 00:00:45,966
+{font face="Eight One"}With
+
+122
+00:00:45,967 --> 00:00:46,208
+{font face="Eight One"}With me
+
+123
+00:00:46,935 --> 00:00:47,176
+{font face="Eight One"}Bet
+
+124
+00:00:47,177 --> 00:00:47,297
+{font face="Eight One"}Bet, I'm
+
+125
+00:00:47,298 --> 00:00:47,418
+{font face="Eight One"}Bet, I'mma
+
+126
+00:00:47,419 --> 00:00:47,539
+{font face="Eight One"}Bet, I'mma take
+
+127
+00:00:47,540 --> 00:00:47,660
+{font face="Eight One"}Bet, I'mma take it
+
+128
+00:00:47,661 --> 00:00:47,902
+{font face="Eight One"}Bet, I'mma take it with
+
+129
+00:00:47,903 --> 00:00:48,386
+{font face="Eight One"}Bet, I'mma take it with me
+
+130
+00:00:48,387 --> 00:00:48,628
+{font face="Eight One"}Blo
+
+131
+00:00:48,629 --> 00:00:48,749
+{font face="Eight One"}Blocking
+
+132
+00:00:48,750 --> 00:00:48,869
+{font face="Eight One"}Blocking you
+
+133
+00:00:48,870 --> 00:00:49,111
+{font face="Eight One"}Blocking you out
+
+134
+00:00:49,112 --> 00:00:49,353
+{font face="Eight One"}Blocking you out like
+
+135
+00:00:49,354 --> 00:00:49,595
+{font face="Eight One"}La
+
+136
+00:00:49,596 --> 00:00:49,837
+{font face="Eight One"}La-la
+
+137
+00:00:49,838 --> 00:00:50,079
+{font face="Eight One"}La-la-lah
+
+138
+00:00:50,080 --> 00:00:50,200
+{font face="Eight One"}Might
+
+139
+00:00:50,201 --> 00:00:50,321
+{font face="Eight One"}Might as
+
+140
+00:00:50,322 --> 00:00:50,563
+{font face="Eight One"}Might as well
+
+141
+00:00:50,564 --> 00:00:50,805
+{font face="Eight One"}Might as well be
+
+142
+00:00:50,806 --> 00:00:50,926
+{font face="Eight One"}Might as well be do
+
+143
+00:00:50,927 --> 00:00:51,047
+{font face="Eight One"}Might as well be doing
+
+144
+00:00:51,048 --> 00:00:51,289
+{font face="Eight One"}Might as well be doing this
+
+145
+00:00:51,290 --> 00:00:51,531
+{font face="Eight One"}So
+
+146
+00:00:51,532 --> 00:00:51,773
+{font face="Eight One"}Solo
+
+147
+00:00:51,774 --> 00:00:52,257
+{font face="Eight One"}Solo-lah
+
+148
+00:00:55,887 --> 00:00:56,007
+{font face="Eight One"}Put
+
+149
+00:00:56,008 --> 00:00:56,128
+{font face="Eight One"}Put a
+
+150
+00:00:56,129 --> 00:00:56,490
+{font face="Eight One"}Put a hole
+
+151
+00:00:56,491 --> 00:00:56,611
+{font face="Eight One"}Put a hole in
+
+152
+00:00:56,612 --> 00:00:56,853
+{font face="Eight One"}Put a hole in you
+
+153
+00:00:56,854 --> 00:00:57,095
+{font face="Eight One"}Put a hole in you like
+
+154
+00:00:57,096 --> 00:00:57,337
+{font face="Eight One"}Brah
+
+155
+00:00:57,338 --> 00:00:57,579
+{font face="Eight One"}Brah-brah
+
+156
+00:00:57,580 --> 00:00:57,821
+{font face="Eight One"}Brah-brah-brah
+
+157
+00:00:57,822 --> 00:00:57,942
+{font face="Eight One"}I
+
+158
+00:00:57,943 --> 00:00:58,184
+{font face="Eight One"}I just
+
+159
+00:00:58,185 --> 00:00:58,426
+{font face="Eight One"}I just can't
+
+160
+00:00:58,427 --> 00:00:58,547
+{font face="Eight One"}I just can't con
+
+161
+00:00:58,548 --> 00:00:58,789
+{font face="Eight One"}I just can't control
+
+162
+00:00:58,790 --> 00:00:59,031
+{font face="Eight One"}I just can't control that
+
+163
+00:00:59,032 --> 00:00:59,273
+{font face="Eight One"}Hah
+
+164
+00:00:59,274 --> 00:00:59,515
+{font face="Eight One"}Hah-hah
+
+165
+00:00:59,516 --> 00:00:59,757
+{font face="Eight One"}Hah-hah-hah
+
+166
+00:01:03,629 --> 00:01:03,749
+{font face="Eight One"}Keep
+
+167
+00:01:03,750 --> 00:01:03,869
+{font face="Eight One"}Keep it
+
+168
+00:01:03,870 --> 00:01:04,111
+{font face="Eight One"}Keep it down
+
+169
+00:01:04,112 --> 00:01:04,232
+{font face="Eight One"}Watch
+
+170
+00:01:04,233 --> 00:01:04,474
+{font face="Eight One"}Watch what
+
+171
+00:01:04,475 --> 00:01:04,772
+{font face="Eight One"}Watch what your
+
+172
+00:01:04,773 --> 00:01:04,994
+{font face="Eight One"}Watch what your mouth
+
+173
+00:01:04,995 --> 00:01:05,321
+{font face="Eight One"}Watch what your mouth say
+
+174
+00:01:05,322 --> 00:01:05,563
+{font face="Eight One"}Shut
+
+175
+00:01:05,564 --> 00:01:05,805
+{font face="Eight One"}Shut your
+
+176
+00:01:05,806 --> 00:01:06,289
+{font face="Eight One"}Shut your mouth
+
+177
+00:01:06,290 --> 00:01:06,531
+{font face="Eight One"}Shut
+
+178
+00:01:06,532 --> 00:01:06,773
+{font face="Eight One"}Shut your
+
+179
+00:01:06,774 --> 00:01:07,015
+{font face="Eight One"}Shut your mouth
+
+180
+00:01:07,016 --> 00:01:07,499
+{font face="Eight One"}Shut your mouth, no
+
+181
+00:01:07,500 --> 00:01:07,740
+{font face="Eight One"}Shut your mouth, no, no
+
+182
+00:01:11,370 --> 00:01:11,490
+{font face="Eight One"}Li
+
+183
+00:01:11,491 --> 00:01:11,611
+{font face="Eight One"}Little
+
+184
+00:01:11,612 --> 00:01:11,853
+{font face="Eight One"}Little boy
+
+185
+00:01:11,854 --> 00:01:12,095
+{font face="Eight One"}Little boy you
+
+186
+00:01:12,096 --> 00:01:12,337
+{font face="Eight One"}Little boy you won
+
+187
+00:01:12,338 --> 00:01:12,458
+{font face="Eight One"}Little boy you won I'm
+
+188
+00:01:12,459 --> 00:01:12,579
+{font face="Eight One"}Little boy you won I'm a
+
+189
+00:01:12,580 --> 00:01:12,821
+{font face="Eight One"}Little boy you won I'm a lo
+
+190
+00:01:12,822 --> 00:01:13,063
+{font face="Eight One"}Little boy you won I'm a loser
+
+191
+00:01:13,064 --> 00:01:13,305
+{font face="Eight One"}Knock
+
+192
+00:01:13,306 --> 00:01:13,547
+{font face="Eight One"}Knock me
+
+193
+00:01:13,548 --> 00:01:14,031
+{font face="Eight One"}Knock me down
+
+194
+00:01:14,032 --> 00:01:14,273
+{font face="Eight One"}Knock
+
+195
+00:01:14,274 --> 00:01:14,515
+{font face="Eight One"}Knock me
+
+196
+00:01:14,516 --> 00:01:14,757
+{font face="Eight One"}Knock me down
+
+197
+00:01:14,758 --> 00:01:15,240
+{font face="Eight One"}Knock me down, no
+
+198
+00:01:15,241 --> 00:01:15,482
+{font face="Eight One"}Knock me down, no no
+
+199
+00:01:15,483 --> 00:01:15,785
+{font face="Eight One"}Knock me down, no no-oh
+
+200
+00:01:21,653 --> 00:01:21,894
+{font face="Eight One"}{font size="42px"}I
+
+201
+00:01:21,895 --> 00:01:22,257
+{font face="Eight One"}{font size="42px"}I TRIED
+
+202
+00:01:22,258 --> 00:01:22,619
+{font face="Eight One"}{font size="42px"}I TRIED MY
+
+203
+00:01:22,620 --> 00:01:23,224
+{font face="Eight One"}{font size="42px"}I TRIED MY BEST

@@ -1,0 +1,43 @@
+import funkin.play.PlayState;
+import funkin.Conductor;
+import flixel.FlxG;
+import funkin.play.event.ScriptedSongEvent;
+
+class ShakeEvent extends ScriptedSongEvent {
+  override function handleEvent(data):Void {
+    if (PlayState.instance == null) return;
+
+    var intensityGame = data.getFloat("game") ?? 0.03;
+    var intensityHUD = data.getFloat("hud") ?? 0.015;
+    var duration = data.getFloat("duration") ?? 1.0;
+    var dir = switch (data.getInt("direction")) {
+      case 0: 0x01; // X
+      case 1: 0x10; // Y
+      default: 0x11; // Both
+    };
+
+    var durSeconds = Conductor.instance.stepLengthMs * duration / 1000;
+
+    FlxG.camera.shake(intensityGame, durSeconds, dir);
+    PlayState.instance.camHUD?.shake(intensityHUD, durSeconds, dir);
+  }
+
+  override function getTitle() {
+    return "Camera Shake";
+  }
+
+  override function getEventSchema() {
+    return [
+      { name: "game", title: "Game Cam Intensity", type: "float", defaultValue: 0.03 },
+      { name: "hud", title: "HUD Intensity", type: "float", defaultValue: 0.015 },
+      { name: "duration", title: "Duration (in steps)", type: "float", defaultValue: 1.0 },
+      {
+        name: "direction",
+        title: "Shake Direction",
+        type: "enum",
+        defaultValue: 2,
+        keys: [ "Horizontal" => 0, "Vertical" => 1, "Both" => 2 ]
+      }
+    ];
+  }
+}

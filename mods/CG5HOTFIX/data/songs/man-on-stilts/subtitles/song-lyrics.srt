@@ -1,0 +1,563 @@
+1
+00:00:06,625 --> 00:00:06,808
+{font face="Eight One"}Walk
+
+2
+00:00:06,809 --> 00:00:06,992
+{font face="Eight One"}Walking
+
+3
+00:00:06,993 --> 00:00:07,176
+{font face="Eight One"}Walking like
+
+4
+00:00:07,177 --> 00:00:07,360
+{font face="Eight One"}Walking like a
+
+5
+00:00:07,361 --> 00:00:07,729
+{font face="Eight One"}Walking like a man
+
+6
+00:00:07,730 --> 00:00:08,097
+{font face="Eight One"}Walking like a man on
+
+7
+00:00:08,098 --> 00:00:08,281
+{font face="Eight One"}Walking like a man on stilts
+
+9
+00:00:08,282 --> 00:00:08,465
+{font face="Eight One"}I'm
+
+10
+00:00:08,466 --> 00:00:08,649
+{font face="Eight One"}I'm fall
+
+11
+00:00:08,650 --> 00:00:08,833
+{font face="Eight One"}I'm falling
+
+12
+00:00:08,834 --> 00:00:09,017
+{font face="Eight One"}I'm falling o
+
+13
+00:00:09,018 --> 00:00:09,569
+{font face="Eight One"}I'm falling over
+
+15
+00:00:09,570 --> 00:00:09,753
+{font face="Eight One"}Walk
+
+16
+00:00:09,754 --> 00:00:09,937
+{font face="Eight One"}Walking
+
+17
+00:00:09,938 --> 00:00:10,121
+{font face="Eight One"}Walking like
+
+18
+00:00:10,122 --> 00:00:10,305
+{font face="Eight One"}Walking like a
+
+19
+00:00:10,306 --> 00:00:10,673
+{font face="Eight One"}Walking like a man
+
+20
+00:00:10,674 --> 00:00:11,041
+{font face="Eight One"}Walking like a man on
+
+21
+00:00:11,042 --> 00:00:12,146
+{font face="Eight One"}Walking like a man on stilts
+
+23
+00:00:17,300 --> 00:00:17,667
+{font face="Eight One"}Oh
+
+24
+00:00:17,668 --> 00:00:18,219
+{font face="Eight One"}Oh my
+
+25
+00:00:18,220 --> 00:00:18,403
+{font face="Eight One"}Oh my, oh
+
+26
+00:00:18,404 --> 00:00:18,587
+{font face="Eight One"}Oh my, oh my
+
+27
+00:00:18,588 --> 00:00:18,772
+{font face="Eight One"}Oh my, oh my, oh
+
+28
+00:00:18,773 --> 00:00:18,956
+{font face="Eight One"}Oh my, oh my, oh my
+
+30
+00:00:18,957 --> 00:00:19,140
+{font face="Eight One"}You
+
+31
+00:00:19,141 --> 00:00:19,508
+{font face="Eight One"}You got
+
+32
+00:00:19,509 --> 00:00:20,244
+{font face="Eight One"}You got me
+
+34
+00:00:20,245 --> 00:00:20,612
+{font face="Eight One"}Oh
+
+35
+00:00:20,613 --> 00:00:21,164
+{font face="Eight One"}Oh my
+
+36
+00:00:21,165 --> 00:00:21,348
+{font face="Eight One"}Oh my, oh
+
+37
+00:00:21,349 --> 00:00:21,624
+{font face="Eight One"}Oh my, oh my
+
+38
+00:00:21,625 --> 00:00:21,900
+{font face="Eight One"}Oh my, oh my, oh my
+
+40
+00:00:21,901 --> 00:00:22,084
+{font face="Eight One"}You
+
+41
+00:00:22,085 --> 00:00:22,452
+{font face="Eight One"}You got
+
+42
+00:00:22,453 --> 00:00:22,821
+{font face="Eight One"}You got me
+
+43
+00:00:22,822 --> 00:00:23,189
+{font face="Eight One"}You got me, yah
+
+44
+00:00:23,190 --> 00:00:23,557
+{font face="Eight One"}You got me, yah-ah
+
+46
+00:00:29,447 --> 00:00:29,630
+{font face="Eight One"}Ta
+
+47
+00:00:29,631 --> 00:00:29,814
+{font face="Eight One"}Taking
+
+48
+00:00:29,815 --> 00:00:29,999
+{font face="Eight One"}Taking it
+
+49
+00:00:30,000 --> 00:00:30,911
+{font face="Eight One"}Taking it slow
+
+51
+00:00:32,392 --> 00:00:32,575
+{font face="Eight One"}Fo
+
+52
+00:00:32,576 --> 00:00:32,759
+{font face="Eight One"}Follow
+
+53
+00:00:32,760 --> 00:00:32,943
+{font face="Eight One"}Follow the
+
+54
+00:00:32,944 --> 00:00:33,864
+{font face="Eight One"}Follow the flow
+
+56
+00:00:35,337 --> 00:00:35,428
+{font face="Eight One"}Ma
+
+57
+00:00:35,429 --> 00:00:35,520
+{font face="Eight One"}Making
+
+58
+00:00:35,521 --> 00:00:35,612
+{font face="Eight One"}Making it
+
+59
+00:00:35,613 --> 00:00:35,704
+{font face="Eight One"}Making it, ma
+
+60
+00:00:35,705 --> 00:00:35,796
+{font face="Eight One"}Making it, making
+
+61
+00:00:35,797 --> 00:00:35,888
+{font face="Eight One"}Making it, making it
+
+62
+00:00:35,889 --> 00:00:35,980
+{font face="Eight One"}Making it, making it, ma
+
+63
+00:00:35,981 --> 00:00:36,072
+{font face="Eight One"}Making it, making it, making
+
+64
+00:00:36,073 --> 00:00:36,164
+{font face="Eight One"}Making it, making it, making it
+
+66
+00:00:36,165 --> 00:00:36,256
+{font face="Eight One"}Ma
+
+67
+00:00:36,257 --> 00:00:36,348
+{font face="Eight One"}Making
+
+68
+00:00:36,349 --> 00:00:36,440
+{font face="Eight One"}Making it
+
+69
+00:00:36,441 --> 00:00:36,624
+{font face="Eight One"}Making it rain
+
+70
+00:00:36,625 --> 00:00:36,808
+{font face="Eight One"}Making it rain now
+
+72
+00:00:38,282 --> 00:00:38,373
+{font face="Eight One"}Ma
+
+73
+00:00:38,374 --> 00:00:38,465
+{font face="Eight One"}Making
+
+74
+00:00:38,466 --> 00:00:38,649
+{font face="Eight One"}Making it
+
+75
+00:00:38,650 --> 00:00:38,741
+{font face="Eight One"}Making it, ma
+
+76
+00:00:38,742 --> 00:00:38,833
+{font face="Eight One"}Making it, making
+
+77
+00:00:38,834 --> 00:00:39,017
+{font face="Eight One"}Making it, making it
+
+79
+00:00:39,018 --> 00:00:39,109
+{font face="Eight One"}Ma
+
+80
+00:00:39,110 --> 00:00:39,201
+{font face="Eight One"}Making
+
+81
+00:00:39,202 --> 00:00:39,385
+{font face="Eight One"}Making it
+
+82
+00:00:39,386 --> 00:00:39,753
+{font face="Eight One"}Making it rain
+
+84
+00:00:40,858 --> 00:00:41,225
+{font face="Eight One"}Hah!
+
+86
+00:00:41,226 --> 00:00:41,410
+{font face="Eight One"}Won
+
+87
+00:00:41,411 --> 00:00:41,594
+{font face="Eight One"}Wonder
+
+88
+00:00:41,595 --> 00:00:41,778
+{font face="Eight One"}Wonderful
+
+89
+00:00:41,779 --> 00:00:42,146
+{font face="Eight One"}Wonderful won
+
+90
+00:00:42,147 --> 00:00:42,514
+{font face="Eight One"}Wonderful wonder
+
+92
+00:00:42,515 --> 00:00:42,698
+{font face="Eight One"}Won
+
+93
+00:00:42,699 --> 00:00:43,066
+{font face="Eight One"}Wonder
+
+94
+00:00:43,067 --> 00:00:43,434
+{font face="Eight One"}Wonder and
+
+95
+00:00:43,435 --> 00:00:44,170
+{font face="Eight One"}Wonder and light
+
+97
+00:00:44,171 --> 00:00:44,354
+{font face="Eight One"}Could
+
+98
+00:00:44,355 --> 00:00:44,538
+{font face="Eight One"}Couldn't
+
+99
+00:00:44,539 --> 00:00:44,722
+{font face="Eight One"}Couldn't you
+
+100
+00:00:44,723 --> 00:00:45,091
+{font face="Eight One"}Couldn't you be
+
+101
+00:00:45,092 --> 00:00:45,275
+{font face="Eight One"}Couldn't you be my
+
+102
+00:00:45,276 --> 00:00:45,459
+{font face="Eight One"}Couldn't you be my guar
+
+103
+00:00:45,460 --> 00:00:45,643
+{font face="Eight One"}Couldn't you be my guardi
+
+104
+00:00:45,644 --> 00:00:46,011
+{font face="Eight One"}Couldn't you be my guardian
+
+106
+00:00:46,012 --> 00:00:46,379
+{font face="Eight One"}To
+
+107
+00:00:46,380 --> 00:00:46,563
+{font face="Eight One"}Toni
+
+108
+00:00:46,564 --> 00:00:46,747
+{font face="Eight One"}Toni-<font size="22">ni
+
+109
+00:00:46,748 --> 00:00:46,931
+{font face="Eight One"}Toni-<font size="22">ni-<font size="20">ni
+
+110
+00:00:46,932 --> 00:00:47,115
+{font face="Eight One"}Toni-<font size="22">ni-<font size="20">ni-<font size="18">night?
+
+112
+00:00:53,006 --> 00:00:53,189
+{font face="Eight One"}I
+
+113
+00:00:53,190 --> 00:00:53,373
+{font face="Eight One"}I ne
+
+114
+00:00:53,374 --> 00:00:53,557
+{font face="Eight One"}I never
+
+115
+00:00:53,558 --> 00:00:53,925
+{font face="Eight One"}I never knew
+
+116
+00:00:53,926 --> 00:00:54,293
+{font face="Eight One"}I never knew love
+
+117
+00:00:54,294 --> 00:00:54,477
+{font face="Eight One"}I never knew love un
+
+118
+00:00:54,478 --> 00:00:54,845
+{font face="Eight One"}I never knew love until
+
+120
+00:00:54,846 --> 00:00:55,213
+{font face="Eight One"}When
+
+121
+00:00:55,214 --> 00:00:55,581
+{font face="Eight One"}When you
+
+122
+00:00:55,582 --> 00:00:55,949
+{font face="Eight One"}When you found
+
+123
+00:00:55,950 --> 00:00:56,318
+{font face="Eight One"}When you found m
+
+124
+00:00:56,319 --> 00:00:56,686
+{font face="Eight One"}When you found my
+
+126
+00:00:56,687 --> 00:00:57,054
+{font face="Eight One"}Found
+
+127
+00:00:57,055 --> 00:00:57,422
+{font face="Eight One"}Found my
+
+128
+00:00:57,423 --> 00:00:57,790
+{font face="Eight One"}Found my heart
+
+129
+00:00:57,791 --> 00:00:57,974
+{font face="Eight One"}Found my heart on
+
+130
+00:00:57,975 --> 00:00:58,158
+{font face="Eight One"}Found my heart on the
+
+131
+00:00:58,159 --> 00:00:58,526
+{font face="Eight One"}Found my heart on the out
+
+132
+00:00:58,527 --> 00:00:58,894
+{font face="Eight One"}Found my heart on the outside
+
+134
+00:01:04,785 --> 00:01:04,965
+{font face="Eight One"}Ta
+
+135
+00:01:04,969 --> 00:01:05,152
+{font face="Eight One"}Taking
+
+136
+00:01:05,153 --> 00:01:05,336
+{font face="Eight One"}Taking it
+
+137
+00:01:05,337 --> 00:01:06,256
+{font face="Eight One"}Taking it slow
+
+139
+00:01:07,730 --> 00:01:07,913
+{font face="Eight One"}Fo
+
+140
+00:01:07,914 --> 00:01:08,097
+{font face="Eight One"}Follow
+
+141
+00:01:08,098 --> 00:01:08,281
+{font face="Eight One"}Follow the
+
+142
+00:01:08,282 --> 00:01:09,201
+{font face="Eight One"}Follow the flow
+
+144
+00:01:10,674 --> 00:01:10,765
+{font face="Eight One"}Ma
+
+145
+00:01:10,766 --> 00:01:10,857
+{font face="Eight One"}Making
+
+146
+00:01:10,858 --> 00:01:11,041
+{font face="Eight One"}Making it
+
+147
+00:01:11,042 --> 00:01:11,133
+{font face="Eight One"}Making it, ma
+
+148
+00:01:11,134 --> 00:01:11,225
+{font face="Eight One"}Making it, making
+
+149
+00:01:11,226 --> 00:01:11,410
+{font face="Eight One"}Making it, making it
+
+151
+00:01:11,411 --> 00:01:11,502
+{font face="Eight One"}Ma
+
+152
+00:01:11,503 --> 00:01:11,594
+{font face="Eight One"}Making
+
+153
+00:01:11,595 --> 00:01:11,778
+{font face="Eight One"}Making it
+
+154
+00:01:11,779 --> 00:01:12,146
+{font face="Eight One"}Making it rain
+
+155
+00:01:12,147 --> 00:01:12,882
+{font face="Eight One"}Making it rain now
+
+157
+00:01:15,092 --> 00:01:15,183
+{font face="Eight One"}Ma
+
+158
+00:01:15,184 --> 00:01:15,275
+{font face="Eight One"}Making
+
+159
+00:01:15,276 --> 00:01:15,459
+{font face="Eight One"}Making it
+
+160
+00:01:15,460 --> 00:01:15,551
+{font face="Eight One"}Making it, ma
+
+161
+00:01:15,552 --> 00:01:15,643
+{font face="Eight One"}Making it, making
+
+162
+00:01:15,644 --> 00:01:15,827
+{font face="Eight One"}Making it, making it
+
+164
+00:01:15,828 --> 00:01:15,919
+{font face="Eight One"}Ma
+
+165
+00:01:15,920 --> 00:01:16,011
+{font face="Eight One"}Making
+
+166
+00:01:16,012 --> 00:01:16,195
+{font face="Eight One"}Making it
+
+167
+00:01:16,196 --> 00:01:16,563
+{font face="Eight One"}Making it rain

@@ -1,0 +1,115 @@
+package cg5.modules;
+
+import flixel.FlxG;
+import funkin.modding.module.Module;
+import funkin.play.PlayStatePlaylist;
+import funkin.play.PlayState;
+import funkin.play.ResultState;
+import funkin.save.Save;
+import funkin.util.plugins.NewgroundsMedalPlugin;
+
+class CG5Achievements extends Module
+{
+    var SAVE_KEY:String = "CG5CompletedAchievements";
+    var SONG_SAVE_KEY:String = "CG5CompletedSongs";
+
+    var ALL_ACHIEVEMENTS:Array<Dynamic> = [
+        {
+            id: "CG5Week1Complete",
+            name: "CG5 Sucks",
+            icon: "cg5-week1",
+            song: [
+                "tutorial-remix",
+                "gimme-a-break",
+                "man-on-stilts",
+                "knock-knock"
+            ],
+            story: true
+        }
+    ];
+
+    var completedSongs:Dynamic;
+
+    public function new()
+    {
+        super("CG5Achievements", 1000);
+
+        if (!Save.instance.modOptions.exists(SAVE_KEY))
+                Save.instance.modOptions.set(SAVE_KEY, []);
+
+        if (!Save.instance.modOptions.exists(SONG_SAVE_KEY))
+                Save.instance.modOptions.set(SONG_SAVE_KEY, []);
+
+        completedSongs = Save.instance.modOptions.get(SONG_SAVE_KEY);
+    }
+
+    function onSongStart(){
+            for (song in completedSongs){
+                trace(song);
+            }
+    }
+
+    function onSongEnd(event:ScriptEvent){
+        var state:PlayState = PlayState.instance;
+
+        if (!Save.instance.modOptions.get(SONG_SAVE_KEY).contains(state.currentSong.id))
+        {
+            Save.instance.modOptions.get(SONG_SAVE_KEY).push(state.currentSong.id);
+            Save.instance.flush();
+        }
+    }
+
+    public function onSubStateOpenEnd(event:SubStateScriptEvent)
+    {
+        super.onSubStateOpenEnd(event);
+
+        //pretty much tells the user to piss off if they aren't in results state lollll
+        if (!(event.targetState is ResultState)) return;
+                var state:PlayState = PlayState.instance;
+
+
+        for (data in ALL_ACHIEVEMENTS)
+        {
+            var songs = data.song;
+
+            if (Std.isOfType(songs, String))
+            {
+                // SINGLE SONG
+                if (songs != state.currentSong.id) continue;
+            }
+            else if (Std.isOfType(songs, Array))
+            {
+                // MULTIPLE SONGS
+                var allBeaten:Bool = true;
+
+                for (song in songs)
+                {
+                    if (!completedSongs.contains(song))
+                    {
+                        allBeaten = false;
+                        trace('RAHHHH BEAT THE SONGSSSS');
+                        break;
+                    }
+                }
+
+                if (!allBeaten) continue;
+            }
+
+            // Story check
+            if (data.story != null && data.story != PlayStatePlaylist.isStoryMode) continue;
+
+            giveMedal(data);
+        }
+    }
+
+
+    public function giveMedal(data:Dynamic){
+        //REMOVE THIS LINE FOR TESTING SHIT
+        if(data.id != null && Save.instance.modOptions.get(SAVE_KEY).contains(data.id)) return;
+        else if(data.id == null) return;
+
+        Save.instance.modOptions.get(SAVE_KEY).push(data.id);
+        Save.instance.flush();
+        NewgroundsMedalPlugin.play(100, data.name ?? "Unknown", FlxG.bitmap.add(Paths.image("achievements/" + data.icon)));
+    }
+}

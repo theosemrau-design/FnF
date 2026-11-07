@@ -1,0 +1,11 @@
+04/14/2026 CHANGELOG:
+Wow, a hotfix! would ya look at that :)
+- Fixed some events in Gimme a Break
+- Removed things in the files that shouldn't have been there
+
+
+04/13/2026 CHANGELOG:
+- Chart Revamp
+- Removed the custom Boyfriend sprites
+- Edited the subtitles a bit
+- ALL songs vocals are now properly separated! (Sorry that wasn't in the last patch lol!)

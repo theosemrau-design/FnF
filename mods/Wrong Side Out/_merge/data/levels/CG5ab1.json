@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/songs/-",
+    "value": "wrong-side-out"
+  }
+]

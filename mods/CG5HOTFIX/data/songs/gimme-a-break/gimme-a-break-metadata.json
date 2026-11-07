@@ -1,0 +1,49 @@
+{
+ "version": "2.2.4",
+ "songName": "Gimme a Break",
+ "artist": "CG5",
+ "charter": "Hasuchila + Idk's FNF Stuff",
+ "offsets": {
+  "instrumental": -100,
+  "vocals": {
+   "bf-cg5": -100,
+   "cg5": -100
+  }
+ },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf-cg5",
+   "girlfriend": "or3o",
+   "opponent": "cg5",
+   "opponentVocals": [
+    "cg5"
+   ],
+   "playerVocals": [
+    "bf-cg5"
+   ]
+  },
+  "stage": "mixRoom",
+  "noteStyle": "funkincg5",
+  "ratings": {
+   "easy": 3,
+   "normal": 4,
+   "hard": 5
+  },
+  "album": "cg5week1",
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 98.5,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

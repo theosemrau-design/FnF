@@ -1,0 +1,82 @@
+import funkin.play.event.ScriptedSongEvent;
+import funkin.play.PlayState;
+import funkin.data.event.SongEventSchema;
+import funkin.graphics.FunkinSprite;
+import funkin.Paths;
+import funkin.modding.PolymodErrorHandler;
+
+class CosoManagerEvent extends ScriptedSongEvent {
+	
+	// `static` hace que la variable exista independientemente de la instancia del evento.
+	// Así, el objeto `coso` no se borra entre eventos.
+	public static var coso:FunkinSprite;
+
+	function new() {
+		super("cosoManager");
+	}
+
+	public override function getTitle() {
+		return "Coso Manager";
+	}
+
+	override function handleEvent(data) {
+		var game = PlayState.instance;
+		if (game == null) return;
+		
+		var type:String = data.getString('type');
+		var imagePath:String = data.getString('imagePath');
+		var xPos:Float = data.getFloat('xPos');
+		var yPos:Float = data.getFloat('yPos');
+		var width:Float = data.getFloat('width');
+		var height:Float = data.getFloat('height');
+		var zIndex:Int = data.getInt('zIndex');
+
+		switch (type) {
+			case "create":
+				if (coso != null) {
+					coso.destroy();
+				}
+				coso = new FunkinSprite(xPos, yPos).loadGraphic(Paths.image(imagePath));
+				if (width > 0 && height > 0) {
+					coso.scale.set(width, height);
+				}
+				coso.cameras = [game.camHUD];
+				coso.zIndex = zIndex;
+				game.add(coso);
+				
+			case "hide":
+				if (coso != null) {
+					coso.visible = false;
+				} else {
+					PolymodErrorHandler.showAlert("Coso Manager Error", "Cannot hide coso, it doesn't exist.");
+				}
+				
+			case "replace":
+				if (coso != null) {
+					coso.loadGraphic(Paths.image(imagePath));
+				} else {
+					PolymodErrorHandler.showAlert("Coso Manager Error", "Cannot replace image, coso doesn't exist. Use 'create' first.");
+				}
+				
+			case "show":
+				if (coso != null) {
+					coso.visible = true;
+				}
+				
+			default:
+				PolymodErrorHandler.showAlert("Coso Manager Error", "Invalid event type: " + type);
+		}
+	}
+	
+	override function getEventSchema():SongEventSchema {
+		return [
+			{ name: 'type', title: 'Event Type', defaultValue: 'create', type: "enum", keys: [ 'Create' => 'create', 'Hide' => 'hide', 'Show' => 'show', 'Replace Image' => 'replace' ] },
+			{ name: 'imagePath', title: 'Image Path (mods/images/...)', defaultValue: 'stages/aspect', type: "string" },
+			{ name: 'xPos', title: 'X Position', defaultValue: -120.0, step: 10, type: "float" },
+			{ name: 'yPos', title: 'Y Position', defaultValue: 10.0, step: 10, type: "float" },
+			{ name: 'width', title: 'Scale Width', defaultValue: 1.1, step: 0.1, type: "float" },
+			{ name: 'height', title: 'Scale Height', defaultValue: 1.2, step: 0.1, type: "float" },
+			{ name: 'zIndex', title: 'Z Index (Layer)', defaultValue: 2000, step: 10, type: "float" }
+		];
+	}
+}

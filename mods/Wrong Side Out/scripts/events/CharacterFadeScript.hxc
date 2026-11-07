@@ -1,0 +1,77 @@
+import funkin.play.PlayState;
+import funkin.play.event.SongEvent;
+
+import funkin.modding.module.Module;
+import funkin.modding.module.ModuleHandler;
+
+
+import flixel.tweens.FlxEase;
+import flixel.tweens.FlxTween;
+class CharacterFade extends SongEvent {
+
+	public override function handleEvent(data) {
+		if (PlayState.instance == null || PlayState.instance.currentStage == null) return;
+
+     
+		switch(data.value.character) {
+			case 'bf':
+				FlxTween.tween(PlayState.instance.currentStage.getBoyfriend(), {alpha: data.value.alpha_amount}, data.value.time_totween, {ease: FlxEase.quartInOut});
+			case 'gf':
+				FlxTween.tween(PlayState.instance.currentStage.getGirlfriend(), {alpha:  data.value.alpha_amount}, data.value.time_totween, {ease: FlxEase.quartInOut});
+			case 'dad':
+				FlxTween.tween(PlayState.instance.currentStage.getDad(), {alpha:  data.value.alpha_amount}, data.value.time_totween, {ease: FlxEase.quartInOut});
+
+		}
+
+        PlayState.instance.currentStage.refresh();
+	}
+
+	public function getEventSchema() {
+		return [
+            {
+                name: "character",
+                title: "Which Character?",
+                defaultValue: "bf",
+				type: "enum",
+				keys: [
+					"boyfriend" => "bf",
+					"girlfriend" => "gf",
+					"dad" => "dad"
+				]
+            },
+            {
+                name: "alpha_amount",
+                title: "The Alpha amount",
+                defaultValue: 0,
+				min: 0,
+				max: 1,
+                type: "float",
+            },
+			{
+                name: "time_totween",
+                title: "How long for it to fade?",
+                defaultValue: 0.4,
+				min: 0,
+                type: "float",
+            }
+		];
+	}
+
+	public function getTitle() {
+		return "Character Fade";
+	}
+	
+	public function new() {
+		super('CharacterFade');
+	}
+	    function onCreate(event:ScriptEvent):Void
+  {
+    super.onCreate(event);
+
+   PlayState.instance.currentStage.getBoyfriend().alpha = 1;
+      PlayState.instance.currentStage.getGirlfriend().alpha = 1;
+	        PlayState.instance.currentStage.getDad().alpha = 1;
+
+
+  }
+}

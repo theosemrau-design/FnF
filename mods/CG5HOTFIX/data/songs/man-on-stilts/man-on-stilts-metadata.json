@@ -1,0 +1,50 @@
+{
+ "version": "2.2.4",
+ "songName": "Man On Stilts",
+ "artist": "CG5",
+ "charter": "Hasuchila & Idk's FNF Stuff",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf-cg5",
+   "girlfriend": "or3o",
+   "opponent": "cg5",
+   "opponentVocals": [
+    "cg5"
+   ],
+   "playerVocals": [
+    "bf-cg5"
+   ]
+  },
+  "stage": "mixRoom",
+  "noteStyle": "funkincg5",
+  "ratings": {
+   "easy": 4,
+   "normal": 5,
+   "hard": 6
+  },
+  "album": "cg5week1",
+  "previewStart": 0.438440740031083,
+  "previewEnd": 0.565391411722127
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 163,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 63911.8466,
+   "b": 173.6272,
+   "bpm": 163,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

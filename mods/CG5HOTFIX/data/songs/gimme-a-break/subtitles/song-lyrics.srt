@@ -1,0 +1,1459 @@
+1
+00:00:11,851 --> 00:00:12,221
+{font face="Eight One"}Come
+
+2
+00:00:12,222 --> 00:00:12,591
+{font face="Eight One"}Come a
+
+3
+00:00:12,592 --> 00:00:13,332
+{font face="Eight One"}Come along
+
+4
+00:00:13,333 --> 00:00:14,073
+{font face="Eight One"}Come along down
+
+5
+00:00:14,074 --> 00:00:14,813
+{font face="Eight One"}Come along down with
+
+6
+00:00:14,814 --> 00:00:16,943
+{font face="Eight One"}Come along down with me
+
+8
+00:00:16,944 --> 00:00:17,776
+{font face="Eight One"}You're
+
+9
+00:00:17,777 --> 00:00:18,147
+{font face="Eight One"}You're not
+
+10
+00:00:18,148 --> 00:00:18,517
+{font face="Eight One"}You're not a
+
+11
+00:00:18,518 --> 00:00:19,258
+{font face="Eight One"}You're not alone
+
+13
+00:00:19,259 --> 00:00:19,999
+{font face="Eight One"}You
+
+14
+00:00:20,000 --> 00:00:20,739
+{font face="Eight One"}You will
+
+15
+00:00:20,740 --> 00:00:22,591
+{font face="Eight One"}You will see
+
+17
+00:00:29,629 --> 00:00:29,999
+{font face="Eight One"}Each o
+
+18
+00:00:30,000 --> 00:00:30,369
+{font face="Eight One"}Each other
+
+19
+00:00:30,370 --> 00:00:31,110
+{font face="Eight One"}Each other is
+
+20
+00:00:31,111 --> 00:00:31,850
+{font face="Eight One"}Each other is all
+
+21
+00:00:31,851 --> 00:00:32,591
+{font face="Eight One"}Each other is all they
+
+22
+00:00:32,592 --> 00:00:34,443
+{font face="Eight One"}Each other is all they need
+
+24
+00:00:35,555 --> 00:00:35,924
+{font face="Eight One"}In
+
+25
+00:00:35,925 --> 00:00:36,295
+{font face="Eight One"}In the
+
+26
+00:00:36,296 --> 00:00:36,665
+{font face="Eight One"}In the hour
+
+27
+00:00:36,666 --> 00:00:37,036
+{font face="Eight One"}In the hour of
+
+28
+00:00:37,037 --> 00:00:37,591
+{font face="Eight One"}In the hour of joy
+
+30
+00:00:37,592 --> 00:00:38,054
+{font face="Eight One"}In
+
+31
+00:00:38,055 --> 00:00:38,517
+{font face="Eight One"}In this
+
+32
+00:00:38,518 --> 00:00:39,073
+{font face="Eight One"}In this pa
+
+33
+00:00:39,074 --> 00:00:39,258
+{font face="Eight One"}In this para
+
+34
+00:00:39,259 --> 00:00:40,369
+{font face="Eight One"}In this paradise
+
+36
+00:00:47,037 --> 00:00:47,406
+{font face="Eight One"}If
+
+37
+00:00:47,407 --> 00:00:47,776
+{font face="Eight One"}If we
+
+38
+00:00:47,777 --> 00:00:48,147
+{font face="Eight One"}If we had
+
+39
+00:00:48,148 --> 00:00:48,517
+{font face="Eight One"}If we had ne
+
+40
+00:00:48,518 --> 00:00:48,887
+{font face="Eight One"}If we had never
+
+41
+00:00:48,888 --> 00:00:49,999
+{font face="Eight One"}If we had never done
+
+43
+00:00:50,000 --> 00:00:50,369
+{font face="Eight One"}The
+
+44
+00:00:50,370 --> 00:00:51,480
+{font face="Eight One"}The things
+
+45
+00:00:51,481 --> 00:00:51,850
+{font face="Eight One"}The things we
+
+46
+00:00:51,851 --> 00:00:52,961
+{font face="Eight One"}The things we did
+
+48
+00:00:59,259 --> 00:00:59,628
+{font face="Eight One"}(Come
+
+49
+00:00:59,629 --> 00:00:59,999
+{font face="Eight One"}(Come a
+
+50
+00:01:00,000 --> 00:01:00,739
+{font face="Eight One"}(Come along
+
+51
+00:01:00,740 --> 00:01:01,480
+{font face="Eight One"}(Come along down
+
+52
+00:01:01,481 --> 00:01:02,221
+{font face="Eight One"}(Come along down with
+
+53
+00:01:02,222 --> 00:01:02,591
+{font face="Eight One"}(Come along down with me)
+
+55
+00:01:02,592 --> 00:01:02,776
+{font face="Eight One"}(Come
+
+56
+00:01:02,777 --> 00:01:02,961
+{font face="Eight One"}(Come a
+
+57
+00:01:02,962 --> 00:01:03,702
+{font face="Eight One"}(Come along)
+
+59
+00:01:03,703 --> 00:01:03,887
+{font face="Eight One"}(Come
+
+60
+00:01:03,888 --> 00:01:04,073
+{font face="Eight One"}(Come a-
+
+61
+00:01:04,074 --> 00:01:04,258
+{font face="Eight One"}(Come a- come
+
+62
+00:01:04,259 --> 00:01:04,443
+{font face="Eight One"}(Come a- come a
+
+64
+00:01:04,444 --> 00:01:05,184
+{font face="Eight One"}(You're
+
+65
+00:01:05,185 --> 00:01:05,554
+{font face="Eight One"}(You're not
+
+66
+00:01:05,555 --> 00:01:05,924
+{font face="Eight One"}(You're not a
+
+67
+00:01:05,925 --> 00:01:06,665
+{font face="Eight One"}(You're not alone)
+
+69
+00:01:06,666 --> 00:01:07,406
+{font face="Eight One"}(You
+
+70
+00:01:07,407 --> 00:01:08,147
+{font face="Eight One"}(You will
+
+71
+00:01:08,148 --> 00:01:08,517
+{font face="Eight One"}(You will see)
+
+73
+00:01:08,518 --> 00:01:08,702
+{font face="Eight One"}(Come
+
+74
+00:01:08,703 --> 00:01:08,887
+{font face="Eight One"}(Come a
+
+75
+00:01:08,888 --> 00:01:09,628
+{font face="Eight One"}(Come along)
+
+77
+00:01:09,629 --> 00:01:09,813
+{font face="Eight One"}(Come
+
+78
+00:01:09,814 --> 00:01:09,999
+{font face="Eight One"}(Come a-
+
+79
+00:01:10,000 --> 00:01:10,184
+{font face="Eight One"}(Come a- come
+
+80
+00:01:10,185 --> 00:01:10,369
+{font face="Eight One"}(Come a- come a
+
+82
+00:01:10,370 --> 00:01:11,110
+{font face="Eight One"}We
+
+84
+00:01:17,037 --> 00:01:17,40
+{font face="Eight One"}Each o
+
+85
+00:01:17,407 --> 00:01:17,776
+{font face="Eight One"}Each other
+
+86
+00:01:17,777 --> 00:01:18,517
+{font face="Eight One"}Each other is
+
+87
+00:01:18,518 --> 00:01:19,258
+{font face="Eight One"}Each other is all
+
+88
+00:01:19,259 --> 00:01:19,998
+{font face="Eight One"}Each other is all we
+
+89
+00:01:19,999 --> 00:01:20,369
+{font face="Eight One"}Each other is all we need
+
+91
+00:01:20,370 --> 00:01:20,554
+{font face="Eight One"}(In
+
+92
+00:01:20,555 --> 00:01:20,739
+{font face="Eight One"}(In the
+
+93
+00:01:20,740 --> 00:01:20,924
+{font face="Eight One"}(In the hour
+
+94
+00:01:20,925 --> 00:01:21,110
+{font face="Eight One"}(In the hour of
+
+95
+00:01:21,111 --> 00:01:21,480
+{font face="Eight One"}(In the hour of joy)
+
+97
+00:01:21,481 --> 00:01:21,665
+{font face="Eight One"}(In
+
+98
+00:01:21,666 --> 00:01:21,850
+{font face="Eight One"}(In the
+
+99
+00:01:21,851 --> 00:01:22,036
+{font face="Eight One"}(In the hour
+
+100
+00:01:22,037 --> 00:01:22,221
+{font face="Eight One"}(In the hour of
+
+101
+00:01:22,222 --> 00:01:23,332
+{font face="Eight One"}(In the hour of joy)
+
+103
+00:01:23,333 --> 00:01:23,517
+{font face="Eight One"}(In
+
+104
+00:01:23,518 --> 00:01:23,702
+{font face="Eight One"}(In the
+
+105
+00:01:23,703 --> 00:01:23,887
+{font face="Eight One"}(In the hour
+
+106
+00:01:23,888 --> 00:01:24,073
+{font face="Eight One"}(In the hour of
+
+107
+00:01:24,074 --> 00:01:24,443
+{font face="Eight One"}(In the hour of joy)
+
+109
+00:01:24,444 --> 00:01:24,628
+{font face="Eight One"}(In
+
+110
+00:01:24,629 --> 00:01:24,813
+{font face="Eight One"}(In the
+
+111
+00:01:24,814 --> 00:01:24,998
+{font face="Eight One"}(In the hour
+
+112
+00:01:24,999 --> 00:01:25,184
+{font face="Eight One"}(In the hour of
+
+113
+00:01:25,185 --> 00:01:25,924
+{font face="Eight One"}(In the hour of joy)
+
+115
+00:01:29,259 --> 00:01:29,443
+{font face="Eight One"}(In
+
+116
+00:01:29,444 --> 00:01:29,628
+{font face="Eight One"}(In the
+
+117
+00:01:29,629 --> 00:01:29,813
+{font face="Eight One"}(In the hour
+
+118
+00:01:29,814 --> 00:01:29,998
+{font face="Eight One"}(In the hour of
+
+119
+00:01:29,999 --> 00:01:30,369
+{font face="Eight One"}(In the hour of joy)
+
+121
+00:01:30,370 --> 00:01:30,554
+{font face="Eight One"}(In
+
+122
+00:01:30,555 --> 00:01:30,739
+{font face="Eight One"}(In the
+
+123
+00:01:30,740 --> 00:01:30,924
+{font face="Eight One"}(In the hour
+
+124
+00:01:30,925 --> 00:01:31,110
+{font face="Eight One"}(In the hour of
+
+125
+00:01:31,111 --> 00:01:31,850
+{font face="Eight One"}(In the hour of joy)
+
+127
+00:01:35,185 --> 00:01:35,369
+{font face="Eight One"}Ar
+
+128
+00:01:35,370 --> 00:01:35,554
+{font face="Eight One"}Arti
+
+129
+00:01:35,555 --> 00:01:35,739
+{font face="Eight One"}Artifi
+
+130
+00:01:35,740 --> 00:01:35,924
+{font face="Eight One"}Artificial
+
+131
+00:01:35,925 --> 00:01:36,110
+{font face="Eight One"}Artificial fa
+
+132
+00:01:36,111 --> 00:01:36,665
+{font face="Eight One"}Artificial facade
+
+134
+00:01:36,666 --> 00:01:36,850
+{font face="Eight One"}From
+
+135
+00:01:36,851 --> 00:01:37,036
+{font face="Eight One"}From the
+
+136
+00:01:37,037 --> 00:01:37,221
+{font face="Eight One"}From the fraud
+
+137
+00:01:37,222 --> 00:01:37,406
+{font face="Eight One"}From the fraud of
+
+138
+00:01:37,407 --> 00:01:37,591
+{font face="Eight One"}From the fraud of a
+
+139
+00:01:37,592 --> 00:01:38,147
+{font face="Eight One"}From the fraud of a god
+
+141
+00:01:38,148 --> 00:01:38,517
+{font face="Eight One"}All
+
+142
+00:01:38,518 --> 00:01:38,702
+{font face="Eight One"}All due
+
+143
+00:01:38,703 --> 00:01:38,887
+{font face="Eight One"}All due to
+
+144
+00:01:38,888 --> 00:01:39,073
+{font face="Eight One"}All due to the
+
+145
+00:01:39,074 --> 00:01:39,443
+{font face="Eight One"}All due to the path
+
+147
+00:01:39,444 --> 00:01:39,628
+{font face="Eight One"}That
+
+148
+00:01:39,629 --> 00:01:39,998
+{font face="Eight One"}That we
+
+149
+00:01:39,999 --> 00:01:40,369
+{font face="Eight One"}That we tro
+
+150
+00:01:40,370 --> 00:01:41,110
+{font face="Eight One"}That we trod
+
+152
+00:01:41,111 --> 00:01:41,295
+{font face="Eight One"}We
+
+153
+00:01:41,296 --> 00:01:41,480
+{font face="Eight One"}We just
+
+154
+00:01:41,481 --> 00:01:41,665
+{font face="Eight One"}We just wan
+
+155
+00:01:41,666 --> 00:01:41,850
+{font face="Eight One"}We just wanted
+
+156
+00:01:41,851 --> 00:01:42,036
+{font face="Eight One"}We just wanted to
+
+157
+00:01:42,037 --> 00:01:42,406
+{font face="Eight One"}We just wanted to heal
+
+159
+00:01:42,407 --> 00:01:42,591
+{font face="Eight One"}But
+
+160
+00:01:42,592 --> 00:01:42,776
+{font face="Eight One"}But now
+
+161
+00:01:42,777 --> 00:01:42,961
+{font face="Eight One"}But now our
+
+162
+00:01:42,962 --> 00:01:43,147
+{font face="Eight One"}But now our night
+
+163
+00:01:43,148 --> 00:01:43,332
+{font face="Eight One"}But now our nightmares
+
+164
+00:01:43,333 --> 00:01:43,517
+{font face="Eight One"}But now our nightmares are
+
+165
+00:01:43,518 --> 00:01:43,887
+{font face="Eight One"}But now our nightmares are real
+
+167
+00:01:43,888 --> 00:01:44,073
+{font face="Eight One"}And
+
+168
+00:01:44,074 --> 00:01:44,258
+{font face="Eight One"}And now
+
+169
+00:01:44,259 --> 00:01:44,443
+{font face="Eight One"}And now we'll
+
+170
+00:01:44,444 --> 00:01:44,628
+{font face="Eight One"}And now we'll ne
+
+171
+00:01:44,629 --> 00:01:44,813
+{font face="Eight One"}And now we'll never
+
+172
+00:01:44,814 --> 00:01:44,999
+{font face="Eight One"}And now we'll never wake
+
+173
+00:01:45,000 --> 00:01:45,369
+{font face="Eight One"}And now we'll never wake up
+
+175
+00:01:45,370 --> 00:01:45,554
+{font face="Eight One"}For
+
+176
+00:01:45,555 --> 00:01:45,924
+{font face="Eight One"}For we've
+
+177
+00:01:45,925 --> 00:01:46,295
+{font face="Eight One"}For we've torn
+
+178
+00:01:46,296 --> 00:01:46,665
+{font face="Eight One"}For we've torn a
+
+180
+00:01:46,666 --> 00:01:47,036
+{font face="Eight One"}(We
+
+181
+00:01:47,037 --> 00:01:47,406
+{font face="Eight One"}(We want
+
+182
+00:01:47,407 --> 00:01:47,591
+{font face="Eight One"}(We want free
+
+183
+00:01:47,592 --> 00:01:48,887
+{font face="Eight One"}(We want freedom)
+
+185
+00:01:48,888 --> 00:01:49,073
+{font face="Eight One"}(Free
+
+186
+00:01:49,074 --> 00:01:49,999
+{font face="Eight One"}(Freedom)
+
+188
+00:01:50,000 --> 00:01:50,184
+{font face="Eight One"}(Free
+
+189
+00:01:50,185 --> 00:01:50,369
+{font face="Eight One"}(Freedom
+
+190
+00:01:50,370 --> 00:01:50,554
+{font face="Eight One"}(Freedom, free
+
+191
+00:01:50,555 --> 00:01:50,739
+{font face="Eight One"}(Freedom, freedom
+
+193
+00:01:50,740 --> 00:01:51,110
+{font face="Eight One"}We
+
+194
+00:01:51,111 --> 00:01:51,850
+{font face="Eight One"}We all
+
+195
+00:01:51,851 --> 00:01:52,591
+{font face="Eight One"}We all fall
+
+196
+00:01:52,592 --> 00:01:52,961
+{font face="Eight One"}We all fall down
+
+198
+00:01:52,962 --> 00:01:53,332
+{font face="Eight One"}We'll
+
+199
+00:01:53,333 --> 00:01:53,702
+{font face="Eight One"}We'll sleep
+
+200
+00:01:53,703 --> 00:01:54,073
+{font face="Eight One"}We'll sleep well
+
+201
+00:01:54,074 --> 00:01:54,443
+{font face="Eight One"}We'll sleep well now
+
+203
+00:01:54,444 --> 00:01:54,813
+{font face="Eight One"}Dream
+
+204
+00:01:54,814 --> 00:01:55,184
+{font face="Eight One"}Dream dreams
+
+205
+00:01:55,185 --> 00:01:55,554
+{font face="Eight One"}Dream dreams knocked
+
+206
+00:01:55,555 --> 00:01:55,924
+{font face="Eight One"}Dream dreams knocked out
+
+208
+00:01:55,925 --> 00:01:56,295
+{font face="Eight One"}New
+
+209
+00:01:56,296 --> 00:01:56,665
+{font face="Eight One"}New blooms
+
+210
+00:01:56,666 --> 00:01:57,036
+{font face="Eight One"}New blooms when
+
+211
+00:01:57,037 --> 00:01:57,406
+{font face="Eight One"}New blooms when play
+
+212
+00:01:57,407 --> 00:01:57,776
+{font face="Eight One"}New blooms when playtime
+
+213
+00:01:57,777 --> 00:01:58,517
+{font face="Eight One"}New blooms when playtime sprouts
+
+215
+00:01:58,518 --> 00:01:58,887
+{font face="Eight One"}Come
+
+216
+00:01:58,888 --> 00:01:59,258
+{font face="Eight One"}Come a
+
+217
+00:01:59,259 --> 00:01:59,999
+{font face="Eight One"}Come along
+
+218
+00:02:00,000 --> 00:02:00,739
+{font face="Eight One"}Come along, go
+
+219
+00:02:00,740 --> 00:02:01,480
+{font face="Eight One"}Come along, go to
+
+220
+00:02:01,481 --> 00:02:01,850
+{font face="Eight One"}Come along, go to sleep
+
+222
+00:02:01,851 --> 00:02:02,036
+{font face="Eight One"}(Come
+
+223
+00:02:02,037 --> 00:02:02,221
+{font face="Eight One"}(Come a
+
+224
+00:02:02,222 --> 00:02:02,961
+{font face="Eight One"}(Come along)
+
+226
+00:02:02,962 --> 00:02:03,147
+{font face="Eight One"}(Come
+
+227
+00:02:03,148 --> 00:02:03,332
+{font face="Eight One"}(Come a-
+
+228
+00:02:03,333 --> 00:02:03,517
+{font face="Eight One"}(Come a- come
+
+229
+00:02:03,518 --> 00:02:03,702
+{font face="Eight One"}(Come a- come a
+
+231
+00:02:03,703 --> 00:02:04,443
+{font face="Eight One"}And
+
+232
+00:02:04,444 --> 00:02:04,813
+{font face="Eight One"}And leave
+
+233
+00:02:04,814 --> 00:02:05,184
+{font face="Eight One"}And leave here
+
+235
+00:02:05,185 --> 00:02:05,924
+{font face="Eight One"}With
+
+236
+00:02:05,925 --> 00:02:06,665
+{font face="Eight One"}Without
+
+237
+00:02:06,666 --> 00:02:07,406
+{font face="Eight One"}Without a
+
+238
+00:02:07,407 --> 00:02:07,776
+{font face="Eight One"}Without a trace
+
+240
+00:02:07,777 --> 00:02:07,961
+{font face="Eight One"}(Come
+
+241
+00:02:07,962 --> 00:02:08,147
+{font face="Eight One"}(Come a
+
+242
+00:02:08,148 --> 00:02:08,887
+{font face="Eight One"}(Come along)
+
+244
+00:02:08,888 --> 00:02:09,073
+{font face="Eight One"}(Come
+
+245
+00:02:09,074 --> 00:02:09,258
+{font face="Eight One"}(Come a-
+
+246
+00:02:09,259 --> 00:02:09,443
+{font face="Eight One"}(Come a- come
+
+247
+00:02:09,444 --> 00:02:09,628
+{font face="Eight One"}(Come a- come a
+
+249
+00:02:09,629 --> 00:02:10,369
+{font face="Eight One"}Though
+
+250
+00:02:10,370 --> 00:02:10,739
+{font face="Eight One"}Though life
+
+251
+00:02:10,740 --> 00:02:11,110
+{font face="Eight One"}Though life in
+
+252
+00:02:11,111 --> 00:02:11,850
+{font face="Eight One"}Though life in the
+
+253
+00:02:11,851 --> 00:02:12,591
+{font face="Eight One"}Though life in the sha
+
+254
+00:02:12,592 --> 00:02:13,332
+{font face="Eight One"}Though life in the shadows
+
+256
+00:02:13,333 --> 00:02:14,073
+{font face="Eight One"}Is
+
+257
+00:02:14,074 --> 00:02:14,813
+{font face="Eight One"}Isn't
+
+258
+00:02:14,814 --> 00:02:15,554
+{font face="Eight One"}Isn't much
+
+260
+00:02:15,555 --> 00:02:16,295
+{font face="Eight One"}It's
+
+261
+00:02:16,296 --> 00:02:16,665
+{font face="Eight One"}It's be
+
+262
+00:02:16,666 --> 00:02:17,036
+{font face="Eight One"}It's better
+
+263
+00:02:17,037 --> 00:02:17,776
+{font face="Eight One"}It's better than
+
+264
+00:02:17,777 --> 00:02:18,147
+{font face="Eight One"}It's better than li
+
+265
+00:02:18,148 --> 00:02:18,517
+{font face="Eight One"}It's better than living
+
+266
+00:02:18,518 --> 00:02:18,887
+{font face="Eight One"}It's better than living in
+
+267
+00:02:18,888 --> 00:02:19,258
+{font face="Eight One"}It's better than living in a
+
+268
+00:02:19,259 --> 00:02:22,221
+{font face="Eight One"}It's better than living in a cage
+
+270
+00:02:22,222 --> 00:02:23,332
+{font face="Eight One"}(Can
+
+271
+00:02:23,333 --> 00:02:23,702
+{font face="Eight One"}(Can you
+
+272
+00:02:23,703 --> 00:02:24,443
+{font face="Eight One"}(Can you see
+
+273
+00:02:24,444 --> 00:02:25,184
+{font face="Eight One"}(Can you see us?)
+
+275
+00:02:25,185 --> 00:02:26,295
+{font face="Eight One"}(Can
+
+276
+00:02:26,296 --> 00:02:26,665
+{font face="Eight One"}(Can you
+
+277
+00:02:26,666 --> 00:02:27,406
+{font face="Eight One"}(Can you hear
+
+278
+00:02:27,407 --> 00:02:28,517
+{font face="Eight One"}(Can you hear us?)
+
+280
+00:02:28,518 --> 00:02:28,702
+{font face="Eight One"}Ar
+
+281
+00:02:28,703 --> 00:02:28,887
+{font face="Eight One"}Arti
+
+282
+00:02:28,888 --> 00:02:29,073
+{font face="Eight One"}Artifi
+
+283
+00:02:29,074 --> 00:02:29,258
+{font face="Eight One"}Artificial
+
+284
+00:02:29,259 --> 00:02:29,443
+{font face="Eight One"}Artificial fa
+
+285
+00:02:29,444 --> 00:02:29,999
+{font face="Eight One"}Artificial facade
+
+287
+00:02:30,000 --> 00:02:30,184
+{font face="Eight One"}From
+
+288
+00:02:30,185 --> 00:02:30,369
+{font face="Eight One"}From the
+
+289
+00:02:30,370 --> 00:02:30,554
+{font face="Eight One"}From the fraud
+
+290
+00:02:30,555 --> 00:02:30,739
+{font face="Eight One"}From the fraud of
+
+291
+00:02:30,740 --> 00:02:30,924
+{font face="Eight One"}From the fraud of a
+
+292
+00:02:30,925 --> 00:02:31,480
+{font face="Eight One"}From the fraud of a god
+
+294
+00:02:31,481 --> 00:02:31,850
+{font face="Eight One"}All
+
+295
+00:02:31,851 --> 00:02:32,036
+{font face="Eight One"}All due
+
+296
+00:02:32,037 --> 00:02:32,221
+{font face="Eight One"}All due to
+
+297
+00:02:32,222 --> 00:02:32,406
+{font face="Eight One"}All due to the
+
+298
+00:02:32,407 --> 00:02:32,776
+{font face="Eight One"}All due to the path
+
+300
+00:02:32,777 --> 00:02:32,961
+{font face="Eight One"}That
+
+301
+00:02:32,962 --> 00:02:33,332
+{font face="Eight One"}That we
+
+302
+00:02:33,333 --> 00:02:33,702
+{font face="Eight One"}That we tro
+
+303
+00:02:33,703 --> 00:02:34,443
+{font face="Eight One"}That we trod
+
+305
+00:02:34,444 --> 00:02:34,628
+{font face="Eight One"}We
+
+306
+00:02:34,629 --> 00:02:34,813
+{font face="Eight One"}We just
+
+307
+00:02:34,814 --> 00:02:34,999
+{font face="Eight One"}We just wan
+
+308
+00:02:35,000 --> 00:02:35,184
+{font face="Eight One"}We just wanted
+
+309
+00:02:35,185 --> 00:02:35,369
+{font face="Eight One"}We just wanted to
+
+310
+00:02:35,370 --> 00:02:35,739
+{font face="Eight One"}We just wanted to heal
+
+312
+00:02:35,740 --> 00:02:35,924
+{font face="Eight One"}But
+
+313
+00:02:35,925 --> 00:02:36,110
+{font face="Eight One"}But now
+
+314
+00:02:36,111 --> 00:02:36,295
+{font face="Eight One"}But now our
+
+315
+00:02:36,296 --> 00:02:36,480
+{font face="Eight One"}But now our night
+
+316
+00:02:36,481 --> 00:02:36,665
+{font face="Eight One"}But now our nightmares
+
+317
+00:02:36,666 --> 00:02:36,850
+{font face="Eight One"}But now our nightmares are
+
+318
+00:02:36,851 --> 00:02:37,221
+{font face="Eight One"}But now our nightmares are real
+
+320
+00:02:37,222 --> 00:02:37,406
+{font face="Eight One"}And
+
+321
+00:02:37,407 --> 00:02:37,591
+{font face="Eight One"}And now
+
+322
+00:02:37,592 --> 00:02:37,776
+{font face="Eight One"}And now we'll
+
+323
+00:02:37,777 --> 00:02:37,961
+{font face="Eight One"}And now we'll ne
+
+324
+00:02:37,962 --> 00:02:38,147
+{font face="Eight One"}And now we'll never
+
+325
+00:02:38,148 --> 00:02:38,332
+{font face="Eight One"}And now we'll never wake
+
+326
+00:02:38,333 --> 00:02:38,702
+{font face="Eight One"}And now we'll never wake up
+
+328
+00:02:38,703 --> 00:02:38,887
+{font face="Eight One"}For
+
+329
+00:02:38,888 --> 00:02:39,258
+{font face="Eight One"}For we've
+
+330
+00:02:39,259 --> 00:02:39,627
+{font face="Eight One"}For we've torn
+
+331
+00:02:39,629 --> 00:02:39,999
+{font face="Eight One"}For we've torn a
+
+333
+00:02:40,000 --> 00:02:40,369
+{font face="Eight One"}(We
+
+334
+00:02:40,370 --> 00:02:40,739
+{font face="Eight One"}(We want
+
+335
+00:02:40,740 --> 00:02:40,924
+{font face="Eight One"}(We want free
+
+336
+00:02:40,925 --> 00:02:42,221
+{font face="Eight One"}(We want freedom)
+
+338
+00:02:42,222 --> 00:02:42,406
+{font face="Eight One"}(Free
+
+339
+00:02:42,407 --> 00:02:43,332
+{font face="Eight One"}(Freedom)
+
+341
+00:02:43,333 --> 00:02:43,517
+{font face="Eight One"}(Free
+
+342
+00:02:43,518 --> 00:02:43,702
+{font face="Eight One"}(Freedom
+
+343
+00:02:43,703 --> 00:02:43,887
+{font face="Eight One"}(Freedom, free
+
+344
+00:02:43,888 --> 00:02:44,073
+{font face="Eight One"}(Freedom, freedom)
+
+346
+00:02:44,074 --> 00:02:44,443
+{font face="Eight One"}We
+
+347
+00:02:44,444 --> 00:02:45,184
+{font face="Eight One"}We all
+
+348
+00:02:45,185 --> 00:02:45,924
+{font face="Eight One"}We all fall
+
+349
+00:02:45,925 --> 00:02:46,295
+{font face="Eight One"}We all fall down
+
+351
+00:02:46,296 --> 00:02:46,665
+{font face="Eight One"}We'll
+
+352
+00:02:46,666 --> 00:02:47,036
+{font face="Eight One"}We'll sleep
+
+353
+00:02:47,037 --> 00:02:47,406
+{font face="Eight One"}We'll sleep well
+
+354
+00:02:47,407 --> 00:02:47,776
+{font face="Eight One"}We'll sleep well now
+
+356
+00:02:47,777 --> 00:02:48,147
+{font face="Eight One"}Dream
+
+357
+00:02:48,148 --> 00:02:48,517
+{font face="Eight One"}Dream dreams
+
+358
+00:02:48,518 --> 00:02:48,887
+{font face="Eight One"}Dream dreams knocked
+
+359
+00:02:48,888 --> 00:02:49,258
+{font face="Eight One"}Dream dreams knocked out
+
+361
+00:02:49,259 --> 00:02:49,628
+{font face="Eight One"}New
+
+362
+00:02:49,629 --> 00:02:49,999
+{font face="Eight One"}New blooms
+
+363
+00:02:50,000 --> 00:02:50,369
+{font face="Eight One"}New blooms when
+
+364
+00:02:50,370 --> 00:02:50,739
+{font face="Eight One"}New blooms when play
+
+365
+00:02:50,740 --> 00:02:51,110
+{font face="Eight One"}New blooms when playtime
+
+366
+00:02:51,111 --> 00:02:52,221
+{font face="Eight One"}New blooms when playtime sprouts
+
+368
+00:02:52,222 --> 00:02:52,406
+{font face="Eight One"}Ar
+
+369
+00:02:52,407 --> 00:02:52,591
+{font face="Eight One"}Arti
+
+370
+00:02:52,592 --> 00:02:52,776
+{font face="Eight One"}Artifi
+
+371
+00:02:52,777 --> 00:02:52,961
+{font face="Eight One"}Artificial
+
+372
+00:02:52,962 --> 00:02:53,147
+{font face="Eight One"}Artificial fa
+
+373
+00:02:53,148 --> 00:02:53,702
+{font face="Eight One"}Artificial facade
+
+375
+00:02:53,703 --> 00:02:53,887
+{font face="Eight One"}From
+
+376
+00:02:53,888 --> 00:02:54,073
+{font face="Eight One"}From the
+
+377
+00:02:54,074 --> 00:02:54,258
+{font face="Eight One"}From the fraud
+
+378
+00:02:54,259 --> 00:02:54,443
+{font face="Eight One"}From the fraud of
+
+379
+00:02:54,444 --> 00:02:54,628
+{font face="Eight One"}From the fraud of a
+
+380
+00:02:54,629 --> 00:02:55,184
+{font face="Eight One"}From the fraud of a god
+
+382
+00:02:55,185 --> 00:02:55,554
+{font face="Eight One"}All
+
+383
+00:02:55,555 --> 00:02:55,739
+{font face="Eight One"}All due
+
+384
+00:02:55,740 --> 00:02:55,924
+{font face="Eight One"}All due to
+
+385
+00:02:55,925 --> 00:02:56,110
+{font face="Eight One"}All due to the
+
+386
+00:02:56,111 --> 00:02:56,480
+{font face="Eight One"}All due to the path
+
+388
+00:02:56,481 --> 00:02:56,665
+{font face="Eight One"}That
+
+389
+00:02:56,666 --> 00:02:57,036
+{font face="Eight One"}That we
+
+390
+00:02:57,037 --> 00:02:58,147
+{font face="Eight One"}That we trod
+
+392
+00:02:58,148 --> 00:02:58,332
+{font face="Eight One"}We
+
+393
+00:02:58,333 --> 00:02:58,517
+{font face="Eight One"}We just
+
+394
+00:02:58,518 --> 00:02:58,702
+{font face="Eight One"}We just wan
+
+395
+00:02:58,703 --> 00:02:58,887
+{font face="Eight One"}We just wanted
+
+396
+00:02:58,888 --> 00:02:59,073
+{font face="Eight One"}We just wanted to
+
+397
+00:02:59,074 --> 00:02:59,443
+{font face="Eight One"}We just wanted to heal
+
+399
+00:02:59,444 --> 00:02:59,628
+{font face="Eight One"}But
+
+400
+00:02:59,629 --> 00:02:59,813
+{font face="Eight One"}But now
+
+401
+00:02:59,814 --> 00:02:59,999
+{font face="Eight One"}But now our
+
+402
+00:03:00,000 --> 00:03:00,184
+{font face="Eight One"}But now our night
+
+403
+00:03:00,185 --> 00:03:00,369
+{font face="Eight One"}But now our nightmares
+
+404
+00:03:00,370 --> 00:03:00,554
+{font face="Eight One"}But now our nightmares are
+
+405
+00:03:00,555 --> 00:03:00,924
+{font face="Eight One"}But now our nightmares are real
+
+407
+00:03:00,925 --> 00:03:01,110
+{font face="Eight One"}And
+
+408
+00:03:01,111 --> 00:03:01,295
+{font face="Eight One"}And now
+
+409
+00:03:01,296 --> 00:03:01,480
+{font face="Eight One"}And now we'll
+
+410
+00:03:01,481 --> 00:03:01,665
+{font face="Eight One"}And now we'll ne
+
+411
+00:03:01,666 --> 00:03:01,850
+{font face="Eight One"}And now we'll never
+
+412
+00:03:01,851 --> 00:03:02,036
+{font face="Eight One"}And now we'll never wake
+
+413
+00:03:02,037 --> 00:03:02,406
+{font face="Eight One"}And now we'll never wake up
+
+415
+00:03:02,407 --> 00:03:02,776
+{font face="Eight One"}We've
+
+416
+00:03:02,777 --> 00:03:03,147
+{font face="Eight One"}We've torn
+
+417
+00:03:03,148 --> 00:03:03,332
+{font face="Eight One"}We've torn a
+
+418
+00:03:03,333 --> 00:03:04,073
+{font face="Eight One"}We've torn apart
+
+420
+00:03:04,074 --> 00:03:04,258
+{font face="Eight One"}Ar
+
+421
+00:03:04,259 --> 00:03:04,443
+{font face="Eight One"}Arti
+
+422
+00:03:04,444 --> 00:03:04,628
+{font face="Eight One"}Artifi
+
+423
+00:03:04,629 --> 00:03:04,813
+{font face="Eight One"}Artificial
+
+424
+00:03:04,814 --> 00:03:04,999
+{font face="Eight One"}Artificial fa
+
+425
+00:03:05,000 --> 00:03:05,554
+{font face="Eight One"}Artificial faca
+
+426
+00:03:05,555 --> 00:03:05,739
+{font face="Eight One"}Artificial faca-ah
+
+427
+00:03:05,740 --> 00:03:06,295
+{font face="Eight One"}Artificial faca-ah-ah
+
+428
+00:03:06,296 --> 00:03:06,480
+{font face="Eight One"}Artificial faca-ah-ah-ah
+
+429
+00:03:06,481 --> 00:03:08,702
+{font face="Eight One"}Artificial faca-ah-ah-ah-ah
+
+431
+00:03:08,703 --> 00:03:08,795
+{font face="Eight One"}Ah-
+
+432
+00:03:08,796 --> 00:03:08,887
+{font face="Eight One"}Ah-ah
+
+433
+00:03:08,888 --> 00:03:09,999
+{font face="Eight One"}Ah-ah-ah
+
+435
+00:03:10,000 --> 00:03:10,369
+{font face="Eight One"}(La-
+
+436
+00:03:10,370 --> 00:03:10,739
+{font face="Eight One"}(La-la
+
+437
+00:03:10,740 --> 00:03:11,110
+{font face="Eight One"}(La-la-la
+
+438
+00:03:11,111 --> 00:03:12,221
+{font face="Eight One"}(La-la-la-la
+
+439
+00:03:12,222 --> 00:03:12,591
+{font face="Eight One"}(La-la-la-la-la
+
+440
+00:03:12,592 --> 00:03:14,813
+{font face="Eight One"}(La-la-la-la-la-la)

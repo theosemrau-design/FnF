@@ -1,0 +1,30 @@
+import funkin.play.PlayState;
+import flixel.FlxG;
+
+import funkin.play.event.SongEvent;
+import funkin.data.event.SongEventSchema;
+
+import funkin.modding.PolymodErrorHandler;
+import funkin.play.event.ScriptedSongEvent;
+
+import funkin.modding.module.ModuleHandler;
+import funkin.modding.module.ScriptedModule;
+import funkin.data.event.SongEventRegistry;
+import funkin.save.Save;
+
+import lime.app.Application;
+
+class changeWindowTitleHandler extends ScriptedModule {
+  function new() {
+    super("change-window-title-handler", 30);
+    this.active = true; // always active, no mod option needed
+  }
+
+  /**
+   * Called by the event to change the window title.
+   */
+  public function setTitle(newTitle:String) {
+    if (newTitle == null || newTitle.length <= 0) return;
+    Application.current.window.title = newTitle;
+  }
+}

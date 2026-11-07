@@ -1,0 +1,47 @@
+{
+ "version": "2.2.4",
+ "songName": "Knock Knock",
+ "artist": "CG5",
+ "charter": "Hasuchila + Idk's FNF Stuff",
+ "offsets": { },
+ "playData": {
+  "songVariations": [
+   "erect",
+   "pico"
+  ],
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf-cg5",
+   "girlfriend": "or3o",
+   "opponent": "cg5",
+   "opponentVocals": [
+    "cg5"
+   ],
+   "playerVocals": [
+    "bf-cg5"
+   ]
+  },
+  "stage": "mixRoom",
+  "noteStyle": "funkincg5",
+  "ratings": {
+   "easy": 5,
+   "normal": 6,
+   "hard": 7
+  },
+  "album": "cg5week1",
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 124,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
